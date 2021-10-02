@@ -7,11 +7,11 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/lucifertrj/manga-scrap">
-    <img src="https://img.shields.io/github/languages/code-size//lucifertrj/manga-scrap" alt="Code Size" />
+<a href="https://github.com/lucifertrj/manga-scrap/">
+    <img src="https://img.shields.io/github/languages/code-size//lucifertrj/manga-scrap/" alt="Code Size" />
 </a>
-</p>
-![Screenshot from 2021-06-28 20-53-31](https://user-images.githubusercontent.com/66197713/124310479-df66f080-db89-11eb-9b19-94cdab8c9cdc.png)
+</p>![Screenshot from 2021-10-02 10-58-19](https://user-images.githubusercontent.com/66197713/135704822-ec3f6ab5-fe2a-460b-8068-20b58a612f2a.png)
+
 
 ##About Project🚀
 
@@ -19,9 +19,9 @@ A GUI based application which scrap the `Manga` Image and save it in a `director
 
 ##Requirements📓
 
-`BeautifulSoup`
-`Requests`
-`Tkinter`
+-`BeautifulSoup`
+-`Requests`
+-`Tkinter`
 
 <p align="center">
   Made by <a href="https://buymeacoffee.com/trjtarun">Tarun Jain</a> with ❤
