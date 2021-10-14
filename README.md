@@ -6,10 +6,6 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="Made with Python" />
 </a>
 </p>
-<p align="center">
-<a href="https://github.com/lucifertrj/manga-scrap/">
-    <img src="https://img.shields.io/github/languages/code-size//lucifertrj/manga-scrap/" alt="Code Size" />
-</a>
 
 ## About Project🚀
 
